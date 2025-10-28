@@ -9,6 +9,7 @@ Chrome extension to display the english translations within Perseus.edu when hov
 # How to use and install extension
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
 ## 1. Download code as a zip file
+<img width="1085" height="815" alt="image" src="https://github.com/user-attachments/assets/0c7a39e1-e926-4e5d-bd79-c2c5cb8f3db4" />
 ---
 ## 2. Unzip the file
 ---
