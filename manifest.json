@@ -1,0 +1,22 @@
+{
+  // Required keys, manifest_version, name, verson
+  "name": "Perseus Greek Word Lookup",
+  "version": "1.0",
+  "manifest_version": 3,
+  // description of extension
+  "description": "Display the english translations within Perseus when hovering over a word or phrase",
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["https://www.perseus.tufts.edu/hopper/text*"],
+      "css": ["styles/style.css"]
+    }
+  ],
+  "host_permissions": ["https://www.perseus.tufts.edu/*"]
+}
