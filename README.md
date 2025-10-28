@@ -16,10 +16,10 @@ https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#lo
 <img width="482" height="343" alt="image" src="https://github.com/user-attachments/assets/64b488c7-e009-4001-91fd-2e83418e4d36" />
 
 ---
-## 3. Go to the Extensions page by entering chrome://extensions in a new tab.
-   Alternatively, click the Extensions menu puzzle button and select **Manage Extensions** at the bottom of the menu.
-   Or, click the **Chrome menu**, hover over **More Tools**, then select Extensions.
+## 3. Go to the Extensions page by entering chrome://extensions in a new tab. Alternatively, click the Extensions menu puzzle button and select *Manage Extensions* at the bottom of the menu. Or, click the *Chrome menu*, hover over *More Tools*, then select Extensions.
 ---
+<img width="2348" height="769" alt="image" src="https://github.com/user-attachments/assets/535150ab-adb5-43a1-8087-ab9c9744877d" />
+
 ## 4. Enable Developer Mode by clicking the toggle switch next to Developer mode at the top right.
 <img width="1798" height="1015" alt="image" src="https://github.com/user-attachments/assets/09ed9f1e-6efe-43aa-8942-b862e8dade8a" />
 
